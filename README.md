@@ -2,7 +2,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007074&width=470&lines=I'm+Yuhao+(%E5%AE%87%E8%B1%AA)%2C+an+Electronic+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007074&width=480&lines=I'm+Yuhao+(%E5%AE%87%E8%B1%AA)%2C+an+Electronic+Engineer)](https://git.io/typing-svg)
 
 ###
 
