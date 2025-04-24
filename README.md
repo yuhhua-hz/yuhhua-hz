@@ -6,7 +6,7 @@
 
 ###
 
-🔭 **Currently working on**: An embedded project based on **ESP32**.  
+🔭 **Working on**: An embedded project based on **ESP32**.  
 📚 **Currently mastering**: **C++**.  
 🎯 **Goals for this year**: Learn **Rust** and deepen my knowledge of low-code embedded systems.  
 🚀 **Career aspiration**: Specialize in software/firmware development.  
